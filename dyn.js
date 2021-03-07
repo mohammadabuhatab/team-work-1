@@ -23,6 +23,6 @@ document.write("you are visit aqaba "+ a +" times")
 
 for (var i =0 ; i<a ; i++)
 {
-    document.write ("<img width='30' height='30' src='images/2.JPG'></img>");
+    document.write ("<img width='30' height='30' src='./images/2.JPG'></img>");
 }
 
