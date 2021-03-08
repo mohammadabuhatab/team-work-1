@@ -23,6 +23,12 @@ document.write("you are visit aqaba "+ a +" times")
 
 for (var i =0 ; i<a ; i++)
 {
-    document.write ("<img width='30' height='30' src='images/2.jpg'></img>");
+    document.write ("<img id='smallPhoto' src='images/2.jpg'>");
 }
-
+function mohammad() {
+   console.log ("i think your information is wronge")
+}
+if (x.length<3 ||y.length<3||a==0)
+{
+    mohammad()
+}

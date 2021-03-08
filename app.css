@@ -1,0 +1,32 @@
+body{
+    background-color: #c8c6a7;
+}
+h1 {
+    background-color:#92967d;
+    color:black;
+    text-align: center;
+}
+h2{
+    text-align: center;   
+}
+img {
+    width: 260px;;
+     height: 170px;; 
+}
+.class1
+{
+   color: black;
+}
+.clase2
+{
+    color:#6e7c7c;
+}
+#smallPhoto
+{
+    width: 30px;
+     height: 30px;
+}
+#title
+{
+   background-color: #435560;
+}
