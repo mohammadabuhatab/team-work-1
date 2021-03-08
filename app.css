@@ -30,3 +30,8 @@ img {
 {
    background-color: #435560;
 }
+mark
+{
+    background-color: black;
+    color: white;
+}
